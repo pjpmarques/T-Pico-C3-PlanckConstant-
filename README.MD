@@ -5,6 +5,8 @@
 
 This project uses a [LilyGO T-PicoC3](https://github.com/Xinyuan-LilyGO/T-PicoC3) connected to an RGB LED to determine [Planck's Constant](https://en.wikipedia.org/wiki/Planck_constant).
 
+Details on how this is done, from a theoretical perspective, can be found on this nice article: [Classroom fundamentals - measuring the Planck constant](https://www.scienceinschool.org/article/2014/planck/).
+
 ![Circuit Picture](img/circuit.jpeg)
 
 Using this circuit it's relatively easy to measure *h* within a 10% error.
